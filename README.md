@@ -19,15 +19,15 @@ I want the dimensions and colors of the application to change so that I can have
   * Number and name of feature: <u>Feature 1</u>
   * Estimate of time needed to complete: <u>1 Hour</u>
   * Start time: <u>4:12</u>
-  * Finish time: <u></u>
-  * Actual time needed to complete: <u></u>
+  * Finish time: <u>4:40</u>
+  * Actual time needed to complete: <u>28 Min</u>
 
 #### Feature 2
   * Number and name of feature: <u>Feature 2</u>
   * Estimate of time needed to complete: <u>1 Hour</u>
-  * Start time: <u></u>
-  * Finish time: <u></u>
-  * Actual time needed to complete: <u></u>
+  * Start time: <u>4:40</u>
+  * Finish time: <u>5:14</u>
+  * Actual time needed to complete: <u>34 Min</u>
 
 ## Resources
   * [Flexbox Basics from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
