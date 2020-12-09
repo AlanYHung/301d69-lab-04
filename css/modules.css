@@ -57,3 +57,41 @@
     background-color: honeydew;
   }
 }  
+
+@media(min-width: 960px){
+  header{
+    background-color: azure;
+  }
+
+  #b{
+    background-color: brown;
+  }
+
+  #c{
+    background-color: crimson;
+  }
+
+  #d{
+    background-color: darkolivegreen;
+  }
+
+  #e{
+    background-color: #E5E5;
+  }
+
+  #f{
+    background-color: fuchsia;
+  }
+
+  #g{
+    background-color: greenyellow;
+  }
+
+  #h{
+    background-color: #888888;
+  }
+
+  #i{
+    background-color: ivory;
+  }
+}
